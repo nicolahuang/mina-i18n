@@ -1,0 +1,37 @@
+{
+  "name": "mina-i18n",
+  "version": "0.1.0",
+  "description": "A tool to support i18n for wechat mini program",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+    "mina-i18n": "./index.js"
+  },
+  "keywords": [
+    "mina",
+    "miniprogram",
+    "wechat",
+    "i18n"
+  ],
+  "author": "nicolahuang",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/parser": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/types": "^7.4.4",
+    "babel-traverse": "^6.26.0",
+    "babel-generator": "^6.26.1",
+    "chalk": "^2.4.2",
+    "json-format": "^1.0.1",
+    "opencc": "^1.0.5",
+    "prettier": "^1.18.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "to-single-quotes": "^3.0.0",
+    "yargs": "^13.2.4",
+    "htmlparser2": "^3.10.1"
+  }
+}
