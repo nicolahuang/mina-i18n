@@ -1,6 +1,6 @@
 {
   "name": "mina-i18n",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tool to support i18n for wechat mini program",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   ],
   "author": "nicolahuang",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
     "@babel/parser": "^7.4.5",
