@@ -1,0 +1,3 @@
+[submodule "lib/htmlparser2"]
+	path = lib/htmlparser2
+	url = https://github.com/nicolahuang/htmlparser2.git
