@@ -7,4 +7,4 @@ A tool to support i18n for wechat mini program
 npm install -g mina-i18n
 
 ## usage
-mina-i18n /path/to/the/origin/mina/project /path/to/i18n/mina/project
+mina-i18n /path/to/your/mina/project  /path/to/i18n/mina/project
