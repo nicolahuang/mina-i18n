@@ -3,8 +3,7 @@
   "version": "0.1.1",
   "description": "A tool to support i18n for wechat mini program",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "bin": {
     "mina-i18n": "./index.js"
   },
